@@ -1,0 +1,49 @@
+form {
+	display: inline;
+}
+header {
+	float: right;
+}
+#google {
+	position: absolute;
+	top: 200px;
+	left: 700px;
+}
+#search {
+	position: absolute;
+	top: 375px;
+	left: 625px;
+	width: 580px;
+	height: 31px;
+	border
+}
+#buttons {
+	display: inline-block;
+	position: absolute;
+	top: 445px;
+	left: 780px;
+}
+#button1 {
+	height: 34px;
+	width: 150px;
+}
+#button2 {
+	height: 34px;
+	width: 120px;
+}
+.foot {
+	background-color: grey;
+}
+#Lt {
+	position: absolute;
+	bottom: 100px;
+}
+#nav1 {
+	position: absolute;
+	bottom: 0;
+}
+#nav2 {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
